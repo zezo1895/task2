@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #1f2632;
+}
+.contient{
+    width: 350px;
+    height: 250px;
+    background-color: #323a49;
+    margin:375px auto;
+    border-radius: 15px;
+    font-family: 'Overpass', sans-serif;
+    position: relative;
+}
+.advice{
+    text-align: center;
+    padding-top: 35px;
+    color: #45dd8f;
+    font-size: 10px;
+    text;
+}
+.topic{
+    font-size: 20px;
+    padding: 26px;
+    text-align: center;
+    color: #fff;
+}
+.ph1{
+    margin: auto;
+    padding: 0px 25px;
+}
+.ph2{
+    background-color: #45dd8f;
+    width: 50px; 
+    height: 50px;
+    position: absolute;
+    left: 147px;
+    bottom: -27px;
+    padding: 13px;
+    border-radius: 50%;
+}
